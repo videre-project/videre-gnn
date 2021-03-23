@@ -2,7 +2,7 @@
 	<a href="#"> <!-- Prevents Github from linking banner to source on click -->
 		<img
 		alt="Videre GNN"
-		src="/public/Github_Banner.png?sanitize=true">
+		src="/public/Github_Banner.png">
 	</a>
 </h3>
 
@@ -19,7 +19,7 @@
 	<a href="#">
 		<img
 		width="15"
-		src="/public/Discord_Logo.png?sanitize=true">
+		src="/public/Discord_Logo.png">
 	</a>
 	<a href="https://discord.gg/MBGatsNNSj">Discord</a>
 	•
